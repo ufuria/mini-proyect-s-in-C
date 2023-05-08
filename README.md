@@ -1,2 +1,4 @@
-# mini-proyect-s-in-C
-:) 
+# mini-proyects-in-C
+:)
+
+Very basic small programs that I have to do
